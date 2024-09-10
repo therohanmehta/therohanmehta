@@ -4,7 +4,7 @@
 🔭 I’m currently working on integration of AI into WebApps to enhance User Experience<br>🌱 I’m currently learning Tensorflow.js Theatre.js GLSL Shaders<br>💬 Ask me about Frontend Development, Backend Development , Animation ,Next , React , Nodejs<br>👯 I’m looking to collaborate on any exciting idea you have<br>⚡ Fun fact -From Building Roads to Writing Codes 
 
 
-## 🌐 Socials:
+## 🌐 Let's Connect:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/the.rohanmehtaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.rohanmehta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/therohanmehta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/the_rohanmehta) 
 
 # 💻 My Tool Belt:
@@ -17,10 +17,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=therohanmehta&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=therohanmehta&icon=10&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
