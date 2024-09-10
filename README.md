@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/the_rohanmehta" target="blank"><img src="https://img.shields.io/twitter/follow/the_rohanmehta?logo=twitter&style=for-the-badge" alt="the_rohanmehta" /></a> </p>
 
-- 🔭 I’m currently working on [using AI into webapps](xyz.com)
+- 🔭 I’m currently working on [AI into Webapps to enhance User Experience]
 
-- 🌱 I’m currently learning **AI,Tensorflow.JS , ThreeJS**
+- 🌱 I’m currently learning **Tensorflow.JS , ThreeJS , React Three Fiber , TheatreJs , Framer Motion**
 
 - 👨‍💻 All of my projects are available at [rohanmehta.vercel.app](rohanmehta.vercel.app)
 
