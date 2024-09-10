@@ -1,8 +1,12 @@
-<h1 align="start">Namaste, I'm Rohan Mehta</h1>
+<h1 align="start">Namaste, I'm Rohan Mehta </h1>
 <h3 align="start">A Full Stack Dev from India </h3>
 # 💫 About Me:
-🔭 I’m currently working on integration of AI into WebApps to enhance User Experience<br>🌱 I’m currently learning Tensorflow.js Theatre.js GLSL Shaders<br>💬 Ask me about Frontend Development, Backend Development , Animation ,Next , React , Nodejs<br>👯 I’m looking to collaborate on any exciting idea you have<br>⚡ Fun fact -From Building Roads to Writing Codes 
-
+🔭 I’m currently working on: Integration of AI into WebApps to enhance User Experience
+🌱 I’m currently learning: Tensorflow.js, Theatre.js, GLSL Shaders
+🌐 Check out my portfolio: [rohanmehta.vercel.app]
+💬 Ask me about: Frontend Development, Backend Development, Animation, Next.js, React, Node.js
+👯 I’m looking to collaborate on: Any exciting idea you have
+⚡ Fun fact: From Building Roads to Writing Codes
 
 ## 🌐 Let's Connect:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/the.rohanmehtaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.rohanmehta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/therohanmehta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/the_rohanmehta) 
