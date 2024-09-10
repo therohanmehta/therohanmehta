@@ -1,7 +1,8 @@
 <h1 align="start">Namaste, I'm Rohan Mehta </h1>
 <h3 align="start">A Full Stack Dev from India </h3>
 🔭 I’m currently working on integration of AI into WebApps to enhance User Experience<br>🌱 I’m currently learning Tensorflow.js Theatre.js GLSL Shaders<br>💬 Ask me about Frontend Development, Backend Development , Animation ,Next , React , Nodejs<br>👯 I’m looking to collaborate on any exciting idea you have<br>⚡ Fun fact -From Building Roads to Writing Codes<br>
-🌐 Check out my portfolio: [rohanmehta.vercel.app]
+🌐 Check out my portfolio: <a href='http://rohanmehta.vercel.app'>www.rohanmehta.dev</a>
+
 
 
 
